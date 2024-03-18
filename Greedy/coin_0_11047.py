@@ -14,4 +14,3 @@ while k>0:
   else:
     coin_val.pop()
 print(count)
-  
