@@ -8,3 +8,5 @@ for i in range(n-1):
   cards[i+1]=cards[i]+cards[i+1]
   cnt+=cards[i+1]
 print(cnt)
+
+# 틀렸음
